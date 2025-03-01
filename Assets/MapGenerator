@@ -1,0 +1,4 @@
+These are scripts used to create tile maps. 
+The GridManager can be used to set your grid dimesnions, what sprite to use to generate the map (Tile prefab), and changes location of a camera to be centered on the map.
+The Tile script helps determine what color should be used when rendering the tiles.
+The Tile sprite is what's being used to generate the map.
